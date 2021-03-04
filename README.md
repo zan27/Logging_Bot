@@ -15,3 +15,7 @@
 	+ Removes the message if it contains one of the words blacklisted;
 	+ Mutes the user who sent it;
 	+ Allows adding and removing of words through commands;
+
+### Example screenshot
+
+()[https://i.imgur.com/MmWKYfb.png]
