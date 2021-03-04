@@ -18,4 +18,4 @@
 
 ### Example screenshot
 
-[](https://i.imgur.com/MmWKYfb.png)
+![](https://i.imgur.com/MmWKYfb.png)
